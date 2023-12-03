@@ -11,6 +11,7 @@ Key Highlights:
 
 This repository serves as a valuable resource for researchers, students, and professionals interested in traffic forecasting and deep learning applications in transportation. It reflects my commitment to open science and the collaborative advancement of knowledge in the field of traffic management and forecasting.
 
+## Citation
 To cite this work in your publications, please use the following BibTeX entry:
 
 @phdthesis{Esugo2023HybridEnvironments,
