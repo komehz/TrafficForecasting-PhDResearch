@@ -1,0 +1,66 @@
+<mxfile host="app.diagrams.net" modified="2023-11-27T01:31:43.467Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="I_dOTrrGXZ_6N8cz8DV6" version="22.1.4" type="onedrive">
+  <diagram name="Page-1" id="0HvqssjljiPrAZcx2ZAx">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=16;" edge="1" parent="1" source="qv6dWtvBswN2AiM2hlDa-1" target="qv6dWtvBswN2AiM2hlDa-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=16;" edge="1" parent="1" source="qv6dWtvBswN2AiM2hlDa-1" target="qv6dWtvBswN2AiM2hlDa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Lucida Console;fontSize=16;" edge="1" parent="1" source="qv6dWtvBswN2AiM2hlDa-1" target="qv6dWtvBswN2AiM2hlDa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Lucida Console&quot;&gt;Traffic Forecasting&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-2" value="Statistical Approaches" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-5" value="Deep Learning Approaches" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qv6dWtvBswN2AiM2hlDa-6" target="qv6dWtvBswN2AiM2hlDa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-6" value="Traditional Machine Learning Approaches" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="420" y="160" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-13" value="ARIMA Models" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="88.75" y="277" width="122.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-15" value="&lt;div align=&quot;left&quot;&gt;KNN, SVMs, ANNs&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="430" y="275" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qv6dWtvBswN2AiM2hlDa-16" value="&lt;div align=&quot;left&quot;&gt;CNNs, GCNNs, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;RNNs, LSTMs, &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;CNN-LSTM&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="620" y="277" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="lDGWbvrGhENtRXp7AIOP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="324" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-1" value="Stochastic-Based Approaches" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Lucida Console;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="254" y="160" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-3" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Lucida Console&quot;&gt;Kalman Filter,&lt;br&gt;Bayesian Networks&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="277" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.476;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qv6dWtvBswN2AiM2hlDa-2" target="qv6dWtvBswN2AiM2hlDa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.422;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lDGWbvrGhENtRXp7AIOP-1" target="lDGWbvrGhENtRXp7AIOP-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lDGWbvrGhENtRXp7AIOP-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.443;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qv6dWtvBswN2AiM2hlDa-5" target="qv6dWtvBswN2AiM2hlDa-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

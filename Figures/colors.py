@@ -1,0 +1,8 @@
+BLUE1 = "#132355"
+BLUE2 = "#17679b"
+BLUE3 = "#18a4d5"
+BLUE4 = "#19c1dd"
+BLUE5 = "#1acdcc"
+BLUE6 = "#1cdbb6"
+BLUE7 = "#68e7c9"
+BLUE8 = "#bfefe5"
