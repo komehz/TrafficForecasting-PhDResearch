@@ -14,9 +14,10 @@ This repository serves as a valuable resource for researchers, students, and pro
 ## Citation
 To cite this work in your publications, please use the following BibTeX entry:
 
-@phdthesis{Esugo2023HybridEnvironments,
-title = {{Hybrid Deep-Learning Models and Evaluation Methods for Short-Term Traffic Flow Forecasting in Urban Environments}},
-year = {2023},
-author = {Esugo, Martin},
-school = {Coventry University}
-}
+```@phdthesis{Esugo2023HybridEnvironments,
+            title = {{Hybrid Deep-Learning Models and Evaluation Methods for Short-Term Traffic Flow Forecasting in Urban Environments}},
+            year = {2023},
+            author = {Esugo, Martin},
+            school = {Coventry University}
+          }
+```
