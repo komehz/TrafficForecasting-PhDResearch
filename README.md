@@ -10,3 +10,12 @@ Key Highlights:
 - Extensive documentation and guidelines for replicating the research and further exploration.
 
 This repository serves as a valuable resource for researchers, students, and professionals interested in traffic forecasting and deep learning applications in transportation. It reflects my commitment to open science and the collaborative advancement of knowledge in the field of traffic management and forecasting.
+
+To cite this work in your publications, please use the following BibTeX entry:
+
+@phdthesis{Esugo2023HybridEnvironments,
+title = {{Hybrid Deep-Learning Models and Evaluation Methods for Short-Term Traffic Flow Forecasting in Urban Environments}},
+year = {2023},
+author = {Esugo, Martin},
+school = {Coventry University}
+}
