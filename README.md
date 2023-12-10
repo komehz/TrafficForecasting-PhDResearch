@@ -1,4 +1,4 @@
-# TrafficForecasting - PhD Research
+# Traffic Forecasting - PhD Research
 Repository for my PhD thesis on Traffic Forecasting.
 
 ## Citation
