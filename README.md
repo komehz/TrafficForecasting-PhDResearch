@@ -6,7 +6,7 @@ To cite this work in your publications, please use the following BibTeX entry:
 
 ```
 @phdthesis{Esugo2023HybridEnvironments,
-  title = {{Hybrid Deep-Learning Models and Evaluation Methods for Short-Term Traffic Flow Forecasting in Urban Environments}},
+  title = {{Hybrid Deep-Learning Models and Evaluation Methods for Short-Term Traffic Flow Forecasting}},
   year = {2023},
   author = {Esugo, Martin},
   school = {Coventry University}
